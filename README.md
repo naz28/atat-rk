@@ -1,1 +1,1 @@
-# naz.ic
+# naz
